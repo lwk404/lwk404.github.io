@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WSL on 普通的博客</title>
+    <link>https://lwk404.github.io/tags/wsl/</link>
+    <description>Recent content in WSL on 普通的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Dec 2019 12:21:13 +0800</lastBuildDate>
+    
+	<atom:link href="https://lwk404.github.io/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WSL字体意外变化解决方案</title>
+      <link>https://lwk404.github.io/post/wsl%E5%AD%97%E4%BD%93/</link>
+      <pubDate>Wed, 11 Dec 2019 12:21:13 +0800</pubDate>
+      
+      <guid>https://lwk404.github.io/post/wsl%E5%AD%97%E4%BD%93/</guid>
+      <description>WSL自带的命令行更换字体后，使用vim字体依旧会变回宋体</description>
+    </item>
+    
+  </channel>
+</rss>

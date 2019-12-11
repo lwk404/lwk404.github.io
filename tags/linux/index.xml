@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on 普通的博客</title>
+    <link>https://lwk404.github.io/tags/linux/</link>
+    <description>Recent content in Linux on 普通的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Dec 2019 15:53:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://lwk404.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>解决Linux屏幕撕裂的问题</title>
+      <link>https://lwk404.github.io/post/linux%E5%B1%8F%E5%B9%95%E6%92%95%E8%A3%82/</link>
+      <pubDate>Wed, 11 Dec 2019 15:53:47 +0800</pubDate>
+      
+      <guid>https://lwk404.github.io/post/linux%E5%B1%8F%E5%B9%95%E6%92%95%E8%A3%82/</guid>
+      <description>使用Linux桌面时，竖屏滚动，看视频时会有撕裂的情况</description>
+    </item>
+    
+  </channel>
+</rss>
