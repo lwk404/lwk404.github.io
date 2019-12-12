@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学习笔记 on 普通的博客</title>
+    <link>https://lwk404.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+    <description>Recent content in 学习笔记 on 普通的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 11 Dec 2019 21:52:18 +0800</lastBuildDate>
+    
+	<atom:link href="https://lwk404.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>树莓派之初次接触</title>
+      <link>https://lwk404.github.io/post/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%B9%8B%E5%88%9D%E6%AC%A1%E6%8E%A5%E8%A7%A6/</link>
+      <pubDate>Wed, 11 Dec 2019 21:52:18 +0800</pubDate>
+      
+      <guid>https://lwk404.github.io/post/%E6%A0%91%E8%8E%93%E6%B4%BE%E4%B9%8B%E5%88%9D%E6%AC%A1%E6%8E%A5%E8%A7%A6/</guid>
+      <description>终于下定决心买了个树莓派，记录一下折腾过程</description>
+    </item>
+    
+  </channel>
+</rss>

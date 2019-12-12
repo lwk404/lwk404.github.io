@@ -5,11 +5,20 @@
     <link>https://lwk404.github.io/tags/</link>
     <description>Recent content in Tags on 普通的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 11 Dec 2019 15:53:47 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 11 Dec 2019 21:52:18 +0800</lastBuildDate>
     
 	<atom:link href="https://lwk404.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>树莓派</title>
+      <link>https://lwk404.github.io/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/</link>
+      <pubDate>Wed, 11 Dec 2019 21:52:18 +0800</pubDate>
+      
+      <guid>https://lwk404.github.io/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Linux</title>
